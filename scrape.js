@@ -1,7 +1,7 @@
 const { Client } = require('discord.js');
 const puppeteer = require('puppeteer');
 
-const TOKEN = 'MTEyOTc1MDY0NjAzNjM4NTg0NQ.GXZnsA.mw6Gn5JHDIOY3yjPWScC8UNgRx1lCPyr_oAeHk';
+const TOKEN = 'token';
 const JOB_SEARCH_URL = 'https://www.indeed.com/jobs';
 
 const bot = new Client();
